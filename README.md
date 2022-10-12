@@ -40,7 +40,7 @@
 
 <p align="center">
 <a href="https://www.femi.dev/"><img alt="Website" src="https://img.shields.io/badge/Website-www.femi.dev-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/AVS1508/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Onabule%20Oluwafemi%20Olamilekan-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/olamilekan-onabule-b60ba6201/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Onabule%20Oluwafemi%20Olamilekan-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/femi.dev/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-femi.dev-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:platvipez@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-platvipez@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
