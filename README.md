@@ -1,12 +1,12 @@
-<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.png">
-
+<!-- <img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.png">
+ -->
 <h2> Hey there! I'm Oluwafemi Onabule.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Freelancing as a Front-end developer.
-- 💼 &nbsp; Working as a Business Development Associate at VirtuBox InfoTech Private Limited.
+<!-- - 💼 &nbsp; Working as a Business Development Associate at VirtuBox InfoTech Private Limited. -->
 - 🌱 &nbsp; Advancing my knowledge on ReactJs and NextJs.
 - ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
 
@@ -40,9 +40,9 @@
 
 <p align="center">
 <a href="https://www.femi.dev/"><img alt="Website" src="https://img.shields.io/badge/Website-www.femi.dev-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/AVS1508/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/AVS1508/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Onabule%20Oluwafemi%20Olamilekan-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/femi.dev/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-femi.dev-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:platvipez@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:platvipez@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-platvipez@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
 ⭐️ From [Oluwafemi O.](https://github.com/nairateam)
